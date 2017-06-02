@@ -47,4 +47,4 @@ app.use('/user', user);
 app.use('/article', article);
 
 
-app.listen(8080);
+app.listen(3006);
